@@ -1,0 +1,30 @@
+-Why Model, Epstein (2008) 
+Everyone models implicitely.
+Explicitely model to validate model or calibrate via data.
+Explicit modeling allows others to replicate
+Allows experts to contribute to model
+Identify sensitive parameters
+
+Reasons to model (other than predict)
+1. Explain (very distinct from predict)
+2. Guide data collection
+3. Illuminate core dynamics
+4. Suggest dynamical analogies
+5. Discover new questions
+6. Promote a scientific habit of mind
+7. Bound (bracket) outcomes to plausible ranges
+8. Illuminate core uncertainties.
+9. Offer crisis options in near-real time
+10. Demonstrate tradeoffs / suggest efficiencies
+11. Challenge the robustness of prevailing theory through perturbations
+12. Expose prevailing wisdom as incompatible with available data
+13. Train practitioners
+14. Discipline the policy dialogue
+15. Educate the general public
+16. Reveal the apparently simple (complex) to be complex (simple)
+
+Models are analogies and simplifications that bring useful information to the top. 
+
+
+-A Brief History of Simulation, Revisited, Goldsman, Nance, Wilson (2010)
+
