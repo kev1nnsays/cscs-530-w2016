@@ -27,4 +27,21 @@ Models are analogies and simplifications that bring useful information to the to
 
 
 -A Brief History of Simulation, Revisited, Goldsman, Nance, Wilson (2010)
+Monte Carlo method to discover value of pi (Buffon-Laplace)
+Gosset's t-distribution
+Computers built and simulation was applied to solve neutron diffusion problem which was analytically intractable
+General Simulation Program to simulated industrial plant with state machines
+Three-phase method for timing executives, activity-cycle diagram, combined simulation
+General Purpose System Simulator - block diagram
+SIMSCRIPT, SIMULA
+
+Simulation Construction: Modular design, management of memory, control of error arising from discretization of cont. quantities,
+design efficient time-advance mechanism, manage files
+Strategic problem (Conway): 
+-Start up problem: deciding when simulation is in SS. Solution: delete simulation generated obv. that are contaminated by init. bias
+-Est. precision of estimators of SS-performance. Solution: batch means
+-Performing precise comparisons of alt. system simulators: 
+
+
+
 
